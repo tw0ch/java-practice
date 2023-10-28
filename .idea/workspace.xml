@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f37a0ab-ea72-4685-b8a3-d705942e9707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/Pr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/Pr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/Pr4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/Pr6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/Pr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/Pr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/Pr4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/Pr5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/Pr7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice4/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice4/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice4/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice4/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndividualPractice/InputWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndividualPractice/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndividualPractice/adjacency_matrix.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -62,7 +47,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "last_opened_file_path": "C:/Users/egorm/GitHub/java-practice/src/Practice2",
     "settings.editor.selected.configurable": "actions.on.save"
@@ -73,6 +58,7 @@
       <recent name="C:\Users\egorm\GitHub\java-practice\src\Practice2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="IndividualPractice" />
       <recent name="Practice3" />
       <recent name="Practice4" />
       <recent name="Practice2" />
