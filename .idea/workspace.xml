@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f37a0ab-ea72-4685-b8a3-d705942e9707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IndividualPractice/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndividualPractice/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndividualPractice/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndividualPractice/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/InputWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Dijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Input/Input.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IndividualPractice/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/adjacency_matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/adjacency_matrix.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/adjacency_matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Input/adjacency_matrix.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +50,16 @@
     "git-widget-placeholder": "tw0ch/individual-lab",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "last_opened_file_path": "C:/Users/egorm/GitHub/java-practice/src/Practice2",
-    "settings.editor.selected.configurable": "actions.on.save",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\egorm\GitHub\java-practice\src\Practice2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/IndividualPractice/Input" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="IndividualPractice" />
@@ -87,32 +87,6 @@
       <updated>1696535818868</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IndividualPractice/Runner.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IndividualPractice/Dijkstra.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IndividualPractice/Node.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IndividualPractice/Dijkstra.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
