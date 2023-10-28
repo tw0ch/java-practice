@@ -1,5 +1,7 @@
 package IndividualPractice;
 
+import IndividualPractice.Input.Input;
+
 import java.io.FileNotFoundException;
 import java.util.Set;
 
@@ -31,7 +33,7 @@ public class Runner {
                     int nodeDistance = node1.getDistance();
                     int nodeNumber = node1.getNodeNumber();
 
-                    if (nodeDistance != 0) {
+                    if (nodeDistance != Integer.MAX_VALUE) {
                         System.out.println(node.getNodeNumber() + " → " + nodeNumber + " " + "(" + nodeDistance + ")");
                     }
                 }

@@ -1,4 +1,4 @@
-package IndividualPractice;
+package IndividualPractice.Input;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -8,7 +8,7 @@ public class Input {
     public static int[][] readInputMatrix() throws FileNotFoundException {
         try {
             // create File and Scanner objects
-            String path = "/Users/egorm/GitRepos/java-practice/src/IndividualPractice/adjacency_matrix.txt";
+            String path = "/Users/egorm/GitRepos/java-practice/src/IndividualPractice/Input/adjacency_matrix.txt";
             File file = new File(path);
             Scanner scanner = new Scanner(file);
 
