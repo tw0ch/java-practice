@@ -8,13 +8,13 @@ import java.util.Collections;
 
 public class Pr4 {
     public static void runTask() {
-        Scanner elem_mas = new Scanner(System.in);
+        Scanner elemMas = new Scanner(System.in);
         int mass[] = new int[20];
         ArrayList<Integer> mass_2 = new ArrayList<>();
         System.out.println("Введите 20 чисел");
         try {
             for (int i = 0; i < 20; i++) {
-                mass[i] = elem_mas.nextInt();
+                mass[i] = elemMas.nextInt();
             }
         } catch (Exception e) {
             System.out.println("Неверный ввод");

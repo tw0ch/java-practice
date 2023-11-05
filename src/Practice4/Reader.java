@@ -2,13 +2,13 @@ package Practice4;
 
 public class Reader {
     private String name;
-    private String book;
+    private Book book;
 
     Reader() {
 
     }
 
-    Reader(String name, String book) {
+    Reader(String name, Book book) {
         setName(name);
         setBook(book);
     }
@@ -22,7 +22,7 @@ public class Reader {
         this.name = name;
     }
 
-    public void setBook(String book) {
+    public void setBook(Book book) {
         this.book = book;
     }
 
@@ -30,14 +30,14 @@ public class Reader {
         return name;
     }
 
-    public String getBook() {
+    public Book getBook() {
         return book;
     }
 
-    public String statistics(Book book, Reader reader, int day, int month) {
+    public String statistics(int day, int month) {
         if (month > book.getMonthBookReturned() || month == book.getMonthBookReturned() && day >= book.getDayBookTook()) {
-            return book.getAuthorBook() + " " + book.getNameBook() + " " + reader.getName() + " Сдана не в срок";
+            return book.getAuthorBook() + " " + book.getNameBook() + " " + this.name + " Сдана не в срок";
         } else
-            return book.getAuthorBook() + " " + book.getNameBook() + " " + reader.getName() + " Сдана  в срок";
+            return book.getAuthorBook() + " " + book.getNameBook() + " " + this.name + " Сдана  в срок";
     }
 }

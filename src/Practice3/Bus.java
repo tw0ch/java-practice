@@ -5,7 +5,7 @@ public class Bus {
     private int costPlace;
     private int occPlaces;
 
-    /// Конструктор по умолчанию.
+    // Конструктор по умолчанию.
     public Bus() {
     }
 

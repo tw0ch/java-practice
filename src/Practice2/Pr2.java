@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Pr2 {
     public static void runTask() {
-        int elem_mas = 0;
+        int elemMas = 0;
 
 
         int mass[] = new int[20];

@@ -3,24 +3,23 @@ package Practice4;
 public class Book {
     private String nameBook;
     private String authorBook;
-    private int dayBookTook;
+    private int dayBookReturned;
     private int monthBookReturned;
 
     public Book() {
-
     }
 
-    public Book(String nameBook, String authorBook, int dayBookTook, int monthBookReturned) {
+    public Book(String nameBook, String authorBook, int dayBookReturned, int monthBookReturned) {
         SetNameBook(nameBook);
         SetAuthorBook(authorBook);
-        SetDayBookTook(dayBookTook);
+        SetDayBookTook(dayBookReturned);
         SetMonthBookReturned(monthBookReturned);
     }
 
     public Book(Book lib) {
         this.nameBook = lib.nameBook;
         this.authorBook = lib.authorBook;
-        this.dayBookTook = lib.dayBookTook;
+        this.dayBookReturned = lib.dayBookReturned;
         this.monthBookReturned = lib.monthBookReturned;
     }
 
@@ -32,8 +31,8 @@ public class Book {
         this.authorBook = authorBook;
     }
 
-    public void SetDayBookTook(int dayBookTook) {
-        this.dayBookTook = dayBookTook;
+    public void SetDayBookTook(int dayBookReturned) {
+        this.dayBookReturned = dayBookReturned;
     }
 
     public void SetMonthBookReturned(int monthBookReturned) {
@@ -49,7 +48,7 @@ public class Book {
     }
 
     public int getDayBookTook() {
-        return dayBookTook;
+        return dayBookReturned;
     }
 
     public int getMonthBookReturned() {
