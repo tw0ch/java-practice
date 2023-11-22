@@ -8,7 +8,7 @@ import java.util.Set;
 public class Runner {
     public static void runPractice() {
         try {
-            int[][] inputAdjacencyMatrix = Input.readInputMatrix();
+            int[][] inputAdjacencyMatrix = Input.readInputMatrix("/Users/egorm/GitRepos/java-practice/src/IndividualPractice/Input/adjacency_matrix.txt");
 
             Graph graph = new Graph(inputAdjacencyMatrix);
 

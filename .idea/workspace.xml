@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f37a0ab-ea72-4685-b8a3-d705942e9707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice1/Pr3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/Pr7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Dijkstra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/Input/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Input/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndividualPractice/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndividualPractice/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/Pr6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/Pr6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/Pr1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/Pr1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/Pr2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/Pr2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/Pr4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/Pr4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice3/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice3/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice3/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice4/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice4/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice4/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice4/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice4/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice4/Reader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "tw0ch/individual-lab",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "C:/Users/egorm/GitHub/java-practice/src/Practice2",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tw0ch/individual-lab&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/egorm/GitHub/java-practice/src/Practice2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\egorm\GitHub\java-practice\src\Practice2" />
